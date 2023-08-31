@@ -12,7 +12,7 @@ The specific file that I’m typing into right now is the **README.md** for this
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
 ---
 
-## Report 2 - Week of 08/31/2023
+# [Report 2 - Week of 08/31/2023] (weekly-reports/Report2.md)
 
 This week I explored Rhino + Grasshopper, understood how changes in the basic parameters tweak the existing design in various ways. 
 
