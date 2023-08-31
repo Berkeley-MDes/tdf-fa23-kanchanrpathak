@@ -59,6 +59,7 @@ Once implemented, computational design is an effective and useful tool for incre
 
 ![20230830_173741](https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/assets/13308318/ee3f4afa-81af-4130-9d0e-af6956765674)
 
+It's still a **WIP**, my process was - I tried to understand the 3D printing first by making basic changes to the original design and then got back to Rhino to explore more and get a new design for the print.
 ---
 
 
