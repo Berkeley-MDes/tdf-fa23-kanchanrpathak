@@ -12,9 +12,9 @@ The specific file that I’m typing into right now is the **README.md** for this
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/desinv-202/wiki/3.0-Weekly-Submissions). They might look something like this: ###
 ---
 
-# ([weekly-reports/Report 2.md](https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/blob/main/weekly-reports/Report%202.md))
+# [Report 2 - Week of 08/21/2023](weekly-reports/Report-2.md)
 
-This week I explored Rhino + Grasshopper, understood how changes in the basic parameters tweak the existing design in various ways. 
+This week we explored Rhino + Grasshopper, understood how changes in the basic parameters tweak the existing design in various ways. 
 
 I was able to understand the basics of Computational Design, explore the Rhino tool, tweak and bake with grasshopper, and export the object in STL format suitable for 3D printing. I also got the chance to use Cura to slice the object for compatibility with the Prusa printers and generated a 3D printed phone stand that is stable and can be used for both horizontal as well as vertical phone orientation.
 
