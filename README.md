@@ -20,6 +20,7 @@ I was able to understand the basics of Computational Design, explore the Rhino t
 
 For detailed report - [check here!](https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/blob/main/weekly-reports/Report%202.md)
 
+---
 
 # Example Report 1 - Week of 08/21/2023 #
 This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
