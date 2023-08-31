@@ -41,13 +41,17 @@ Once implemented, computational design is an effective and useful tool for incre
 ### The printing parameters in Cura 👇
 <img width="1297" alt="Screenshot 2023-08-31 at 9 31 11 AM" src="https://github.com/kanchanrpathak/TDF-Journal/assets/13308318/1b5b53fa-4a94-49d5-9390-8f9f9fa48df0">
 
+---
+
 ## Why this Design Decision?
 
-- **Why 3D Printing** - 3D Printed objects cater better to the current population's interests. (Also I wanted to understand how 3D Printers work)
+- **Why 3D Printing?** - 3D Printed objects are more popular in this contemporary world.  (Also I wanted to understand how 3D Printers work)
 
-- **Why white color** - White gives a feeling of minimalism and looks more aesthetic
+- **Why white color?** - White gives a feeling of minimalism and looks more aesthetic since white color stands for pure and simplicity. White also causes less distraction, which means more attention on the content of the phone screen.
 
-- **Why this particular size** - The stand should be stable and work for both horizontal and vertical orientation of the phone
+- **Why this particular size?** - The stand is tweaked in such a way that it's stable to bear the phone's weight and works for both horizontal and vertical orientation of the phone
+
+---
 
 ## The printing process
 
