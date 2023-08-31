@@ -1,4 +1,4 @@
-# Report 2 - Week of 31/08/2023
+# Report 2 - Week of 08/31/2023
 
 ## What is Computational Design?
 
