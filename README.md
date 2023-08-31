@@ -20,7 +20,7 @@ This week we explored Rhino + Grasshopper, understood how changes in the basic p
 
 I was able to understand the basics of Computational Design, explore the Rhino tool, tweak and bake with grasshopper, and export the object in STL format suitable for 3D printing. I also got the chance to use Cura to slice the object for compatibility with the Prusa printers and generated a 3D printed phone stand that is stable and can be used for both horizontal as well as vertical phone orientation.
 
-For detailed report - [check here!](https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/blob/main/weekly-reports/Report%202.md)
+For detailed report - [check here!](weekly-reports/Report-2.md)
 
 ---
 
