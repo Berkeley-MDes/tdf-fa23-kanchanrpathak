@@ -1,3 +1,5 @@
+# Kanchan Pathak | MDes 2024
+---
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
 
