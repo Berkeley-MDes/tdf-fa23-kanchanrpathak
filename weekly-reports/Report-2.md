@@ -8,50 +8,24 @@ Computational design is a design method that uses a combination of algorithms an
 
 Once implemented, computational design is an effective and useful tool for increasing productivity and creating more robust designs.
 
-## In Rhino
+## Understanding Rhino
 
-### Changing parameters with Remote Control Panel 👇
+I tried to understand the function blocks in Grasshopper and their effect on the final output in Rhino. Was interested in 3D model so went forward with understanding the code for the 3D model.
+<img width="1440" alt="Screenshot 2023-09-09 at 11 38 41 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/assets/13308318/87261275-9d73-4e14-aed6-3c30dbca501b">
 
-<img width="1437" alt="Screenshot 2023-08-31 at 9 16 20 AM" src="https://github.com/kanchanrpathak/TDF-Journal/assets/13308318/0f439376-9f2d-4f9d-9c71-7f3845050632">
+Tyring to select individual set of functions in grasshopper to understand which set represents what in Rhino.
+<img width="1440" alt="Screenshot 2023-09-09 at 11 55 07 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/assets/13308318/7d8a2cf5-f653-497d-845d-522d4219837f">
 
-### The remote control panel 👇
-<img width="302" alt="Screenshot 2023-08-31 at 9 16 01 AM" src="https://github.com/kanchanrpathak/TDF-Journal/assets/13308318/311164fc-542b-423a-90ec-4f8260033ada">
+Trying to make the 3D stand exportable through Rhino with the bake function 
+<img width="1440" alt="Screenshot 2023-09-09 at 11 57 25 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/assets/13308318/3cb4bd43-b9dc-44a4-afbe-13bfbdc2cc18">
 
+## Understanding Cura
 
-### Examining the baked object 👇
+Using ultimaker cura software for the filament printer - Prusa
+<img width="1440" alt="Screenshot 2023-09-10 at 12 12 57 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/assets/13308318/ae2ce123-8762-4e34-b4c9-523446c0586e">
 
-<img width="1440" alt="Screenshot 2023-08-31 at 9 21 27 AM" src="https://github.com/kanchanrpathak/TDF-Journal/assets/13308318/1eb17bda-521e-431b-bab5-0a44e4ccb1aa">
-
-### Selecting the object that's been baked 👇
-
-<img width="1440" alt="Screenshot 2023-08-31 at 9 22 02 AM" src="https://github.com/kanchanrpathak/TDF-Journal/assets/13308318/124a0187-5b19-44de-bb65-8a8ad3c02db9">
-
-
-## In Cura
-
-### The Right view 👇
-<img width="1302" alt="Screenshot 2023-08-30 at 11 31 34 PM" src="https://github.com/kanchanrpathak/TDF-Journal/assets/13308318/752cb40d-ecc1-46f1-b397-7e731881cd6f">
-
-### The Top view 👇
-<img width="1298" alt="Screenshot 2023-08-30 at 11 31 45 PM" src="https://github.com/kanchanrpathak/TDF-Journal/assets/13308318/dc512f0f-ee06-4341-8663-cb3741b46240">
-
-### The Front view 👇
-<img width="1298" alt="Screenshot 2023-08-30 at 11 31 27 PM" src="https://github.com/kanchanrpathak/TDF-Journal/assets/13308318/02e83c01-b837-4ab8-9dc4-9931e84466c1">
-
-### The printing parameters in Cura 👇
-<img width="1297" alt="Screenshot 2023-08-31 at 9 31 11 AM" src="https://github.com/kanchanrpathak/TDF-Journal/assets/13308318/1b5b53fa-4a94-49d5-9390-8f9f9fa48df0">
-
----
-
-## Why this Design Decision?
-
-- **Why 3D Printing?** - 3D Printed objects are more popular in this contemporary world.  (Also I wanted to understand how 3D Printers work)
-
-- **Why white color?** - White gives a feeling of minimalism and looks more aesthetic since white color stands for pure and simplicity. White also causes less distraction, which means more attention on the content of the phone screen.
-
-- **Why this particular size?** - The stand is tweaked in such a way that it's stable to bear the phone's weight and works for both horizontal and vertical orientation of the phone
-
----
+Deciding the Cura preferences best for printing the cell phone stands
+<img width="1440" alt="Screenshot 2023-09-10 at 12 13 56 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/assets/13308318/877414b2-cd25-4e59-a4b8-0cd70bad3ae8">
 
 ## The printing process
 
@@ -59,7 +33,11 @@ Once implemented, computational design is an effective and useful tool for incre
 
 ![20230830_173741](https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/assets/13308318/ee3f4afa-81af-4130-9d0e-af6956765674)
 
-It's still a *WIP*, my process was - I tried to understand the 3D printing first by making basic changes to the original design and then got back to Rhino to explore more and get a new design for the print.
+The final product
+
+
+
+I tried to understand the 3D printing first by making basic changes to the original design and then got back to Rhino to explore more and get a new design for the print.
 
 More coming here...
 ---
