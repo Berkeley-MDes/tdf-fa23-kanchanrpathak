@@ -1,3 +1,28 @@
+## Next Steps - 
+
+Once I understood what was going on in the Grasshopper + Rhino ecosystem. I tried to go one step forward. I tried to understand the computation model in Grasshopper better by changing the parameters to redesign the stand according to my needs. 
+
+## Why this Design Decision?
+
+### **Why 3D Printing?** -
+
+- **Popularity:** 3D printing has gained significant popularity in recent years due to its versatility and ability to create custom and intricate designs. It allows for the fabrication of complex shapes and structures that may not be easily achievable through traditional manufacturing methods.
+  
+- **Learning Opportunity:** It's also a great choice if you wanted to understand how 3D printers work. 3D printing involves layer-by-layer additive manufacturing, which can be a fascinating and educational process to explore.
+
+### **Why white color?** - 
+
+- **Minimalism and Aesthetics:** White is often associated with minimalism and simplicity, which can lend a clean and modern look to your design. Many contemporary designs and products opt for white because it conveys a sense of elegance and timelessness.
+  
+- **Reduced Distraction:** White can indeed be less distracting than bright or vibrant colors. This is particularly beneficial for a phone stand, as it ensures that the focus remains on the phone screen content rather than the stand itself.
+  
+### **Why this particular size?** -
+- **Stability:** The size of your phone stand is likely designed to ensure stability and support for the weight of the phone. A stable stand is essential to prevent the phone from falling or toppling over, which could result in damage.
+  
+- **Versatility:** It's also designed to work for both horizontal and vertical phone orientations, which enhances its usability. This versatility ensures that users can comfortably view content in their preferred orientation, whether it's watching videos, making video calls, or reading text.
+
+--- 
+
 ## In Rhino
 
 ### Changing parameters with Remote Control Panel 👇
@@ -33,15 +58,7 @@
 
 ---
 
-## Why this Design Decision?
 
-- **Why 3D Printing?** - 3D Printed objects are more popular in this contemporary world.  (Also I wanted to understand how 3D Printers work)
-
-- **Why white color?** - White gives a feeling of minimalism and looks more aesthetic since white color stands for pure and simplicity. White also causes less distraction, which means more attention on the content of the phone screen.
-
-- **Why this particular size?** - The stand is tweaked in such a way that it's stable to bear the phone's weight and works for both horizontal and vertical orientation of the phone
-
----
 
 ## The printing process
 
