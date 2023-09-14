@@ -1,16 +1,33 @@
 # Kanchan Pathak | MDes 2024
 
 # [Report 4 - Week of 09/07/2023](weekly-reports/Report-4.md)
+
+In the week 4, with a decent understanding of how to make a computational model in Grasshopper + Rhino, I wanted to use this newly acquired skill to make some curvy pots!
+
+
+I chose 3D printing for the project due to its versatility and ability to create custom and intricate designs. I chose white for print as White is often associated with minimalism and simplicity, which can lend a clean and modern look to your design. 
+
+I made 30 circles, gave them a curve using the graoh function, and spread these 30 circles on the Z-axis. I divided each circle in 100 points, I moved 50 points ahead and 50 points back in each circle such that interpolating them gave me the wavy circles. I rotated the circles which after joining all the cirlces, gave me swirled vase. 
+
+I also had a basic vase structure which I reduced in size and moved up a little.
+
+I capped the holes for both the lofts and subtracted the bigger swirly solid from the basic curvy solid to get the structure of the vase I wanted. 
+
 ---
 
 # [Report 3 - Week of 09/04/2023](weekly-reports/Report-3.md)
+
+In week 3, I understood what was going on in the grasshopper-rhino ecosystem. I tried to go one step forward. I tried to understand the computation model in Grasshopper better by changing the parameters to redesign the stand according to my needs.
+
+I tweaked the parameters so that it works for both horizontal and vertical phone orientations and ensures the stability of the phone.
+
 ---
 
 # [Report 2 - Week of 08/28/2023](weekly-reports/Report-2.md)
 
-In the week 2, we learned about what is a computational model and how computational model can be used to explored Rhino + Grasshopper, understood how changes in the basic parameters tweak the existing design in various ways. 
+In week 2, we learned about what a computational design is and how it is an effective and useful tool for increasing productivity and creating more robust designs. 
 
-I was able to understand the basics of Computational Design, explore the Rhino tool, tweak and bake with grasshopper, and export the object in STL format suitable for 3D printing. I also got the chance to use Cura to slice the object for compatibility with the Prusa printers and generated a 3D printed phone stand that is stable and can be used for both horizontal as well as vertical phone orientation.
+I explored the Rhino and Grasshopper combination. I learned how to bake with Grasshopper and export the object in STL format suitable for 3D printing. I also got the chance to use Cura to slice the object for compatibility with the Prusa printers and generated the basic 3D printed phone stand.
 
 For detailed report - [check here!](weekly-reports/Report-2.md)
 
