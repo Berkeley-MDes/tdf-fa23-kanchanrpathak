@@ -8,7 +8,7 @@
 
 # [Report 2 - Week of 08/28/2023](weekly-reports/Report-2.md)
 
-This week we explored Rhino + Grasshopper, understood how changes in the basic parameters tweak the existing design in various ways. 
+In the week 2, we learned about what is a computational model and how computational model can be used to explored Rhino + Grasshopper, understood how changes in the basic parameters tweak the existing design in various ways. 
 
 I was able to understand the basics of Computational Design, explore the Rhino tool, tweak and bake with grasshopper, and export the object in STL format suitable for 3D printing. I also got the chance to use Cura to slice the object for compatibility with the Prusa printers and generated a 3D printed phone stand that is stable and can be used for both horizontal as well as vertical phone orientation.
 
