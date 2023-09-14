@@ -2,16 +2,18 @@
 
 # [Report 4 - Week of 09/07/2023](weekly-reports/Report-4.md)
 
-In the week 4, with a decent understanding of how to make a computational model in Grasshopper + Rhino, I wanted to use this newly acquired skill to make some curvy pots!
+In week 4, with a decent understanding of how to make a computational model in Grasshopper + Rhino, I wanted to use this newly acquired skill to make some curvy pots!
 
 
 I chose 3D printing for the project due to its versatility and ability to create custom and intricate designs. I chose white for print as White is often associated with minimalism and simplicity, which can lend a clean and modern look to your design. 
 
-I made 30 circles, gave them a curve using the graoh function, and spread these 30 circles on the Z-axis. I divided each circle in 100 points, I moved 50 points ahead and 50 points back in each circle such that interpolating them gave me the wavy circles. I rotated the circles which after joining all the cirlces, gave me swirled vase. 
+For this, in Grasshopper, I made 30 circles, gave them a curve using the grakh function, and spread these 30 circles on the Z-axis. I divided each circle in 100 points, and I moved 50 points ahead and 50 points back in each circle such that interpolating them gave me the wavy circles. I rotated the circles which after joining all the cirlces, gave me swirled vase. 
 
 I also had a basic vase structure which I reduced in size and moved up a little.
 
 I capped the holes for both the lofts and subtracted the bigger swirly solid from the basic curvy solid to get the structure of the vase I wanted. 
+
+Lastly I tweaked the parameters to get the vase of desired size and shape.
 
 ---
 
