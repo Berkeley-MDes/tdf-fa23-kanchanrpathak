@@ -17,7 +17,7 @@ Once I understood what was going on in the Grasshopper + Rhino ecosystem. I trie
 - **Reduced Distraction:** White can indeed be less distracting than bright or vibrant colors. This is particularly beneficial for a phone stand, as it ensures that the focus remains on the phone screen content rather than the stand itself.
   
 ### **Why this particular size?** -
-- **Stability:** The size of your phone stand is likely designed to ensure stability and support for the weight of the phone. A stable stand is essential to prevent the phone from falling or toppling over, which could result in damage.
+- **Stability:** The size of your phone stand is designed to ensure stability and support for the weight of the phone. A stable stand is essential to prevent the phone from falling or toppling over, which could result in damage.
   
 - **Versatility:** It's also designed to work for both horizontal and vertical phone orientations, which enhances its usability. This versatility ensures that users can comfortably view content in their preferred orientation, whether it's watching videos, making video calls, or reading text.
 
