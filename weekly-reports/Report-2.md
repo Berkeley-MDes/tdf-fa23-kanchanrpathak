@@ -1,5 +1,7 @@
 # Report 2 - Week of 08/31/2023
 
+(All reports compilation here - [README.md](https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/blob/main/README.md))
+
 ## What is Computational Design?
 
 Traditionally, design is passive—a designer uses their knowledge and intuition to create designs with a computer-aided design (CAD) program. This method of manual drafting limits the number of design options that can be considered and is restricted by available time and resources.
