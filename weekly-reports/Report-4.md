@@ -5,7 +5,7 @@
 I always wanted to make pots. Now, with a decent understanding of how to make a computational model in Grasshopper + Rhino, I wanted to usie this newly acquired skill to make some pots!
 
 
-For this, in Grasshopper, I made 30 circles, gave them a curve using the grakh function, and spread these 30 circles on the Z-axis. I divided each circle in 100 points, and I moved 50 points ahead and 50 points back in each circle such that interpolating them gave me the wavy circles. I rotated the circles which after joining all the cirlces, gave me swirled vase. 
+For this, in Grasshopper, I made 30 circles, gave them a curve using the graph function, and spread these 30 circles on the Z-axis. I divided each circle in 100 points, and I moved 50 points ahead and 50 points back in each circle such that interpolating them gave me the wavy circles. I rotated the circles which after joining all the cirlces, gave me swirled vase. 
 
 I also had a basic vase structure which I reduced in size and moved up a little.
 
