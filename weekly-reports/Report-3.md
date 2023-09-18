@@ -1,3 +1,5 @@
+(All reports compilation here - [README.md](https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/blob/main/README.md))
+
 ## Next Steps - 
 
 Once I understood what was going on in the Grasshopper + Rhino ecosystem. I tried to go one step forward. I tried to understand the computation model in Grasshopper better by changing the parameters to redesign the stand according to my needs. 
