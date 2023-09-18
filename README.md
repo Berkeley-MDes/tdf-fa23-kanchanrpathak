@@ -7,6 +7,8 @@ In week 4, with a decent understanding of how to make a computational model in G
 
 I chose 3D printing for the project due to its versatility and ability to create custom and intricate designs. I chose white for print as White is often associated with minimalism and simplicity, which can lend a clean and modern look to your design. 
 
+For detailed report - [check here!](weekly-reports/Report-4.md)
+
 ---
 
 # [Report 3 - Week of 09/04/2023](weekly-reports/Report-3.md)
@@ -14,6 +16,8 @@ I chose 3D printing for the project due to its versatility and ability to create
 In week 3, I understood what was going on in the grasshopper-rhino ecosystem. I tried to go one step forward. I tried to understand the computation model in Grasshopper better by changing the parameters to redesign the stand according to my needs.
 
 I tweaked the parameters so that it works for both horizontal and vertical phone orientations and ensures the stability of the phone.
+
+For detailed report - [check here!](weekly-reports/Report-3.md)
 
 ---
 
