@@ -1,6 +1,6 @@
 # Kanchan Pathak | MDes 2024
 
-# [Report 4 - Week of 09/07/2023](weekly-reports/Report-4.md)
+# [Report 4 - Week of 09/14/2023](weekly-reports/Report-4.md)
 
 In week 4, with a decent understanding of how to make a computational model in Grasshopper + Rhino, I wanted to use this newly acquired skill to make some curvy pots!
 
@@ -11,7 +11,7 @@ For detailed report - [check here!](weekly-reports/Report-4.md)
 
 ---
 
-# [Report 3 - Week of 09/04/2023](weekly-reports/Report-3.md)
+# [Report 3 - Week of 09/07/2023](weekly-reports/Report-3.md)
 
 In week 3, I understood what was going on in the grasshopper-rhino ecosystem. I tried to go one step forward. I tried to understand the computation model in Grasshopper better by changing the parameters to redesign the stand according to my needs.
 
@@ -21,7 +21,7 @@ For detailed report - [check here!](weekly-reports/Report-3.md)
 
 ---
 
-# [Report 2 - Week of 08/28/2023](weekly-reports/Report-2.md)
+# [Report 2 - Week of 08/31/2023](weekly-reports/Report-2.md)
 
 In week 2, we learned about what a computational design is and how it is an effective and useful tool for increasing productivity and creating more robust designs. 
 
@@ -31,7 +31,7 @@ For detailed report - [check here!](weekly-reports/Report-2.md)
 
 ---
 
-# Example Report 1 - Week of 08/21/2023 #
+# Example Report 1 - Week of 08/24/2023 #
 This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="https://github.com/s-almeda/tdf-template-repo/assets/21287693/bc2f1864-af5a-456d-9a71-e1d80d51190c">
