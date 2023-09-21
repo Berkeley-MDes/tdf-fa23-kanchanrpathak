@@ -1,5 +1,11 @@
 # Kanchan Pathak | MDes 2024
 
+
+# [Project 2 - Report 1](weekly-reports/P2_Report-1.md)
+
+For detailed report - [check here!](weekly-reports/P2_Report-1.md)
+---
+
 # [Report 4 - Week of 09/14/2023](weekly-reports/Report-4.md)
 
 In week 4, with a decent understanding of how to make a computational model in Grasshopper + Rhino, I wanted to use this newly acquired skill to make some curvy pots!
