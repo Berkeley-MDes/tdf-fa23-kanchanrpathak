@@ -1,5 +1,8 @@
 # Particle Photon 2 Microcontroller
 
+![image](https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/assets/13308318/92f5a0f0-63e8-4cad-ab75-7719ac023cf0)
+
+
 ### Parts that comprise a microcontroller:
 
 *Processor*: contains all the circuitry needed to process input, store data, and output results
