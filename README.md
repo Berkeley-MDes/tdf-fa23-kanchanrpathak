@@ -3,7 +3,11 @@
 
 # [Project 2 - Report 1](weekly-reports/P2_Report-1.md)
 
+This week I tried to understand and read about all the material that was provided in the kit and was able to set up the Photon 2 for Berkeley IOT Wi-Fi.
+
 For detailed report - [check here!](weekly-reports/P2_Report-1.md)
+
+
 ---
 
 # [Report 4 - Week of 09/14/2023](weekly-reports/Report-4.md)
