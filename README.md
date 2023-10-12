@@ -1,5 +1,11 @@
 # Kanchan Pathak | MDes 2024
 
+# [Project 2 - Report 2](weekly-reports/P2_Report-2.md)
+
+This week tried to play with the LEDs and photoresistor. Also tried connective Photon2 with p5.js using URL that refers to the device ID and Access token.
+
+For detailed report - [check here!](weekly-reports/P2_Report-2.md)
+
 
 # [Project 2 - Report 1](weekly-reports/P2_Report-1.md)
 
