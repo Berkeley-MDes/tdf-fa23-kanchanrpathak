@@ -1,6 +1,9 @@
 # Project: Musical Installation
 
 Photos & Videos - https://drive.google.com/drive/folders/1hO9jBTzaKiSjVpfo_Kj28HaqpH28plEA?usp=sharing
+Project Proposal - https://docs.google.com/document/d/1UGilMS9u9Z1wYZVRySiAnYDnTVUT5FXoF3dt3G2Md1s/edit?usp=sharing
+Figma - https://www.figma.com/file/9XI1F4jFasahGmtrcQ3lfh/Untitled?type=whiteboard&node-id=0-1&t=agsaAEo9fEaMpx8Y-0
+Project Slides - https://docs.google.com/presentation/d/1s8mvhFmNEqsa3JSkEE4bWzrcmwfmfzgz7cn5QLbuRkA/edit?usp=sharing
 
 
 [TDF_2.1-combined_2.pdf](https://github.com/Berkeley-MDes/tdf-fa23-kanchanrpathak/files/13163770/TDF_2.1-combined_2.pdf)
