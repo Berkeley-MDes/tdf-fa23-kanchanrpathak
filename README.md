@@ -1,5 +1,12 @@
 # Kanchan Pathak | MDes 2024
 
+# [Project 2 - Report 4](weekly-reports/P2_Report-4.md)
+
+We were heads down into making our installation work!
+
+For detailed report - [check here!](weekly-reports/P2_Report-4.md)
+
+
 # [Project 2 - Report 3](weekly-reports/P2_Report-3.md)
 
 The week was dedicated to our Project 2 - Musical Installation which aims to let people enjoy playing music in water through their hand. 
