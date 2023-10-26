@@ -1,5 +1,11 @@
 # Kanchan Pathak | MDes 2024
 
+# [LLM Exploration](weekly-reports/LLM_Exploration.md)
+
+Content being uploaded!
+
+For detailed report - [check here!](weekly-reports/LLM_Exploration.md)
+
 # [Project 2 - Report 4](weekly-reports/P2_Report-4.md)
 
 We were heads down into making our installation work!
